@@ -1,0 +1,44 @@
+.Messages-info>img{
+    border-radius: 50%;
+    width: 40px;
+    height: 50px;
+    object-fit: cover;
+}
+.Messages{
+   
+    
+    margin-bottom: 20px;
+}
+.Messages-info{
+    display: flex;
+    flex-direction: column;
+   
+  
+}
+.Messages-container{
+    display: flex;
+    flex-direction: column;
+   align-items: flex-end;
+    max-width: 80%;
+}
+
+.Messages-container>p{
+    background-color: #ffff;
+    padding: 5px 10px;
+    border-radius: 0px 5px 5px 5px;
+    max-width: max-content;
+}
+.Messages-container>img{
+    width: 50%;
+    object-fit: cover;
+    padding-top: 10px;
+}
+#owner{
+   
+   flex-direction:row-reverse;
+}
+#owner>p{
+    background-color:#9f9deb ;
+    color: whitesmoke;
+    border-radius: 0px 5px 5px 5px;
+}

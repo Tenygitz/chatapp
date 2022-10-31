@@ -1,0 +1,14 @@
+.NavChat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 60px;
+    background-color: #5c59a7a8;
+}
+.NavChat>i{
+    color: lightgoldenrodyellow;
+}
+.NavChat>h3{
+    color: white;
+}

@@ -1,0 +1,28 @@
+.Input{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 50px;
+}
+.input-container>input{
+    height: 30px;
+    
+}
+.input-info>i{
+    margin-right: 5px;
+}
+.sendBtn{
+    height: 30px;
+    border: none;
+    padding:5px 10px;
+    background-color: #5d5b8d;
+    color: #ddddf7;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.fa-upload{
+    margin-right: 10px;
+}

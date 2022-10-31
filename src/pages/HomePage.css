@@ -1,0 +1,19 @@
+.HomePage{
+   
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+ 
+}
+.containers{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 800px;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 10px;
+    overflow: hidden;
+}

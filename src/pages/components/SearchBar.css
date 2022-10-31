@@ -1,0 +1,37 @@
+.chatusers-search>img{
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+.chatusers-search{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    
+}
+.chatusers-search:hover{
+    background-color: #2f2d52;
+}
+.chatusers-search>h3{
+    color: white;
+}
+.Search-info{
+    padding: 10px;
+}
+.Search-info>input{
+ background-color: transparent;
+ border: none;
+ color: whitesmoke;
+ outline: none;
+}
+.Search-info>input::placeholder{
+    color: lightblue;
+}
+.SearchBar{
+background-color: #555388;
+border-bottom: 1px solid lightblue;
+
+}
